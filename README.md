@@ -2,7 +2,7 @@
 
 An interactive, timed quiz application built with React that tests your knowledge of React concepts. Features a modern UI with progress tracking, scoring system, and high score persistence.
 
-![React Quiz App](https://img.shields.io/badge/React-19.2.1-blue.svg) ![JSON Server](https://img.shields.io/badge/JSON%20Server-1.0.0--beta.3-green.svg) ![License]
+![React Quiz App](https://img.shields.io/badge/React-19.2.1-blue.svg) ![JSON Server](https://img.shields.io/badge/JSON%20Server-1.0.0--beta.3-green.svg)
 
 ## ✨ Features
 
