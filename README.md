@@ -2,7 +2,7 @@
 
 An interactive, timed quiz application built with React that tests your knowledge of React concepts. Features a modern UI with progress tracking, scoring system, and high score persistence.
 
-![React Quiz App](https://img.shields.io/badge/React-19.2.1-blue.svg) ![JSON Server](https://img.shields.io/badge/JSON%20Server-1.0.0--beta.3-green.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![React Quiz App](https://img.shields.io/badge/React-19.2.1-blue.svg) ![JSON Server](https://img.shields.io/badge/JSON%20Server-1.0.0--beta.3-green.svg) ![License]
 
 ## ✨ Features
 
@@ -220,9 +220,6 @@ npm run build
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
